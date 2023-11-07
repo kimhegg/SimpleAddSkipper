@@ -18,11 +18,9 @@ Saves time, saves life.
 2. **Open Tampermonkey Dashboard**:
    Click on the Tampermonkey extension icon in your browser and select "Dashboard."
 
-3. **Create a New Script**:
-   In the Tampermonkey Dashboard, click on the "Utilities" tab and select "Create a new script."
 
-4. **Install the Script**:
+3. **Install the Script**:
    [Click Here to install script](https://greasyfork.org/scripts/479242-fastfwd-vg-ads/code/Fastfwd%20vg-ads.user.js).
 
-5. **Enable the Script**:
+4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
