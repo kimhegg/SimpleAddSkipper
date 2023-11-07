@@ -5,7 +5,7 @@
 // @description  Fast forwards vg-tv ads
 // @author       kimhegg
 // @match        https://tv.vg.no/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=vg.no
 // @updateURL    https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js
 // @downloadURL  https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js
 // @grant        none
