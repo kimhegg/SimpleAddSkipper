@@ -6,8 +6,8 @@
 // @author       kimhegg
 // @match        https://tv.vg.no/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
-// @updateURL    https://github.com/kimhegg/fastfwdads
-// @downloadURL  https://github.com/kimhegg/fastfwdads
+// @updateURL    https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js
+// @downloadURL  https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js
 // @grant        none
 // ==/UserScript==
 
