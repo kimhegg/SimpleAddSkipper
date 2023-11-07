@@ -8,7 +8,7 @@ Saves time, saves life.
 
 ## Installation
 
-1. **Install Tampermonkey**:
+1. **Install Tampermonkey**  (Browser Extension):
    If you haven't already, you need to install the Tampermonkey browser extension. You can find it for various browsers:
    - [Tampermonkey for Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
