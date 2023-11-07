@@ -18,7 +18,7 @@ Fast forward vg-tv ads using tampermonkey
    In the Tampermonkey Dashboard, click on the "Utilities" tab and select "Create a new script."
 
 4. **Install the Script**:
-   [Click Here and Press Install](https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js).
+   [Click Here and copy code, paste to the new script in tampermonkey](https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js).
 
 5. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
