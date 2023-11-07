@@ -1,6 +1,10 @@
 # fastfwdads
-Fast forward vg-tv ads using tampermonkey
+A simple "adblocker" - Fast forward vg-tv ads using tampermonkey
+Instead of watching the whole sequence of adds (30 seconds or so), its fast forwarded in 1 second. 
 
+Might add other norwegian webpages in the future. 
+
+Saves time, saves life.
 
 ## Installation
 
