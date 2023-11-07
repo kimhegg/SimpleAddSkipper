@@ -17,7 +17,7 @@
     //      Config
     //
 
-    // Enable The Undetected Adblocker
+    // Enable The Adblocker
     const adblocker = true;
 
     // Enable debug messages into the console
@@ -31,9 +31,7 @@
     
 
     if(adblocker) addblocker();
-
-    
-    // undetected adblocker method
+  
     function addblocker()
     {
         setInterval(() =>
