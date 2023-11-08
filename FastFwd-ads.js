@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Fastfwd vg-ads
 // @namespace    http://tampermonkey.net/
-// @version      2.1
+// @version      2.3
 // @description  Fast forwards vg-tv ads
 // @author       kimhegg
 // @match        https://tv.vg.no/*
+// @match        https://www.tv2.no/video/*
+// @match        https://www.dagbladet.no/video/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vg.no
-// @updateURL    https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js
-// @downloadURL  https://github.com/kimhegg/fastfwdads/blob/main/FastFwd-ads.js
 // @grant        none
 // ==/UserScript==
 
@@ -41,19 +41,18 @@
             const vg_mainContainer = document.getElementById('player');
             const vg_sidAd = document.querySelector('vgp-ad-layout');
             if(vg_ad){
-            const video = document.querySelector('video');
+                const video = document.querySelector('video');
                 video.playbackRate = 10;
                 video.volume = 0;
-                //localStorage.setItem('pulse4test', 'check');
-                var currentTime = Date.now();
-                var newTime = Number(currentTime);
-                if(typeof(newTime == 'number')){
-                   localStorage.setItem('youbora.dataTime', currentTime);
-                   sessionStorage.setItem('youbora.dataTime', currentTime);
-
-                }
             
             }
+             const tv2_ads= document.getElementById('ad-container');
+            const db_ads = document.getElementsByClassName('videoAdUi');
+             if(tv2_ads || db_ads){
+                document.querySelector('iframe')?.remove();
+                document.getElementById('videoAdUi')?.remove();
+                console.log("Other ads removed");
+              }
          }
          , 50)
     }
