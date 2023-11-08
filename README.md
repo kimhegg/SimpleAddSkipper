@@ -5,7 +5,7 @@ Instead of watching the whole sequence of adds (30 seconds or so), its fast forw
 
 Saves time, saves life.
 
-Might add other norwegian webpages in the future. 
+Update: Added removal of ads on tv2 and dagbladet. 
 
 ## Installation
 
