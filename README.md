@@ -26,4 +26,3 @@ Saves time, saves life.
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
 
 
-This project is licensed under the terms of the MIT license.
