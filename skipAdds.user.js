@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Fastfwd vg-ads
+// @name         SkipAdds
 // @namespace    http://tampermonkey.net/
 // @version      2.4
-// @description  Fast forwards vg-tv ads
+// @description  Skip adds for pages in norway
 // @author       kimhegg
 // @match        https://tv.vg.no/*
 // @match        https://www.tv2.no/video/*
