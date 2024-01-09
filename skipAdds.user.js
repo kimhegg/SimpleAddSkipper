@@ -9,8 +9,8 @@
 // @match        https://www.dagbladet.no/video/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vg.no
 // @grant        none
-// @downloadURL https://raw.githubusercontent.com/kimhegg/SimpleAddSkipper/main/skipAdds.js
-// @updateURL https://raw.githubusercontent.com/kimhegg/SimpleAddSkipper/main/skipAdds.js
+// @downloadURL https://github.com/kimhegg/SimpleAddSkipper/raw/main/skipAdds.user.js
+// @updateURL https://githubt.com/kimhegg/SimpleAddSkipper/raw/main/skipAdds.user.js
 // ==/UserScript==
 
 (function()
