@@ -9,8 +9,8 @@
 // @match        https://www.dagbladet.no/video/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vg.no
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/479242/Fastfwd%20vg-ads.user.js
-// @updateURL https://update.greasyfork.org/scripts/479242/Fastfwd%20vg-ads.meta.js
+// @downloadURL https://raw.githubusercontent.com/kimhegg/SimpleAddSkipper/main/skipAdds.js
+// @updateURL https://raw.githubusercontent.com/kimhegg/SimpleAddSkipper/main/skipAdds.js
 // ==/UserScript==
 
 (function()
