@@ -2,7 +2,7 @@
 // @name         SkipAdds
 // @namespace    http://tampermonkey.net/
 // @version      2.4
-// @description  Skip adds for pages in norway
+// @description  Skip adds for webpages in norway
 // @author       kimhegg
 // @match        https://tv.vg.no/*
 // @match        https://www.tv2.no/video/*
