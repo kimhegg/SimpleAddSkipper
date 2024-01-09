@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Fastfwd vg-ads
 // @namespace    http://tampermonkey.net/
-// @version      2.3
+// @version      2.4
 // @description  Fast forwards vg-tv ads
 // @author       kimhegg
 // @match        https://tv.vg.no/*
