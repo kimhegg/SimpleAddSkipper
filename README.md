@@ -24,3 +24,6 @@ Saves time, saves life.
    [Click Here to install script](https://github.com/kimhegg/SimpleAddSkipper/raw/main/skipAdds.user.js)
 4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
+
+
+This project is licensed under the terms of the MIT license.
