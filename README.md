@@ -1,11 +1,11 @@
-# fastfwdads
+# SimpleAddSkipper
 A simple "adblocker" - Fast forward vg-tv ads using tampermonkey
 
-Instead of watching the whole sequence of adds (30 seconds or so), its fast forwarded in 1 second. 
+tv2 and dagbladet: remove adds
+VG: Was not able to remove it completely. Instead of watching the whole sequence of adds (30 seconds or so), its fast forwarded in 1 second. 
 
 Saves time, saves life.
 
-Update: Added removal of ads on tv2 and dagbladet. 
 
 ## Installation
 
