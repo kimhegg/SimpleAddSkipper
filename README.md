@@ -21,7 +21,7 @@ Saves time, saves life.
 
 
 3. **Install the Script**:
-   [Click Here to install script](https://greasyfork.org/scripts/479242-fastfwd-vg-ads/code/Fastfwd%20vg-ads.user.js).
+   [Click Here to install script](https://raw.githubusercontent.com/kimhegg/SimpleAddSkipper/main/skipAdds.js)
 
 4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
