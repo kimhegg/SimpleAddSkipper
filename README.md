@@ -22,6 +22,5 @@ Saves time, saves life.
 
 3. **Install the Script**:
    [Click Here to install script](https://github.com/kimhegg/SimpleAddSkipper/raw/main/skipAdds.user.js)
-https://github.com/TheRealJoelmatic/RemoveAdblockThing/raw/main/Youtube-Ad-blocker-Reminder-Remover.user.js
 4. **Enable the Script**:
    Enable the script by clicking the switch next to the script name in the Tampermonkey Dashboard.
