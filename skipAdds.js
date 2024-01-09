@@ -13,26 +13,11 @@
 
 (function()
  {
-    //
-    //      Config
-    //
+    const skip_adds = true;
 
-    // Enable The Adblocker
-    const adblocker = true;
-
-    // Enable debug messages into the console
-    const debug = true;
-
-    //
-    //      CODE
-    //
-
-    if (debug) console.log("FastFwd ads: Script started");
-    
-
-    if(adblocker) addblocker();
+    if(skip_adds) skipAdds();
   
-    function addblocker()
+    function skipAdds()
     {
         setInterval(() =>
                     {
