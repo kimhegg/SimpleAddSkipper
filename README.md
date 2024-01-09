@@ -1,8 +1,8 @@
 # SimpleAddSkipper
-A simple "adblocker" 
+Simple "adblocker" 
 
-tv2 and dagbladet: remove adds
-VG: Was not able to remove it completely. Instead of watching the whole sequence of adds (30 seconds or so), its fast forwarded in 1 second. 
+tv2 and dagbladet: skip adds
+VG: Was not able to skip it completely. Instead of watching the whole sequence of adds (30 seconds or so), its fast forwarded in 1 second. 
 
 Saves time, saves life.
 
