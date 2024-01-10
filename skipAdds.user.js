@@ -5,6 +5,7 @@
 // @description  Skip adds for webpages in norway
 // @author       kimhegg
 // @match        https://tv.vg.no/*
+// @match        https://www.vg.no/*
 // @match        https://www.tv2.no/video/*
 // @match        https://www.dagbladet.no/video/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=vg.no
