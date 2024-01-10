@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SkipAdds
 // @namespace    http://tampermonkey.net/
-// @version      2.4
+// @version      2.5
 // @description  Skip adds for webpages in norway
 // @author       kimhegg
 // @match        https://tv.vg.no/*
